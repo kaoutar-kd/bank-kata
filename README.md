@@ -20,5 +20,5 @@ This Kata aims to distill that experience into a problem that can be solved by w
 
 ## Requirements
 
-- Java Development Kit (JDK) (Red Hat build of OpenJDK)
+- Java Development Kit (Red Hat build of OpenJDK or any other JDK)
 - VS Code or any Java IDE
